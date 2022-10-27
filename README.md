@@ -77,3 +77,7 @@ python masks.py --txt /path/input_list.txt --inpath /path/input_ortho_rad/ --out
 
 ### Running on non-ortho scene:
 python masks.py --txt /path/input_list.txt --inpath /path/input_nonortho_rad/ --outpath /path/saved_flare_mask/ --maskgrowradius 25px --cldbfr 25px
+
+# License
+
+BSD-3
